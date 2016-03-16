@@ -10,7 +10,7 @@ here is `code snippet`
 
 ```ruby
 	puts "this is a longer code snippet"
-	```
+```
 
 	[This is a link](http://google.com
 
